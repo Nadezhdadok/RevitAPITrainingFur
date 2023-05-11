@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingFur.dll"</Assembly>
+		<AddInId>2E97C326-4D9C-40A4-B5C6-24A2BA3BE88D</AddInId>
+		<FullClassName>RevitAPITrainingFur.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>мебель</Text>
+	</AddIn>
+</RevitAddIns>
